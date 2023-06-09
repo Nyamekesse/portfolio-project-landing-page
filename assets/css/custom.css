@@ -1,0 +1,13 @@
+.nav-box {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  list-style: none;
+  padding-top: 2rem;
+  padding-left: 4rem;
+  gap: 50px;
+}
+
+a {
+  text-decoration: none;
+}
